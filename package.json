@@ -1,0 +1,23 @@
+{
+  "name": "serverless-pro-example",
+  "version": "1.0.0",
+  "description": "- [Serverless Pro Example](#serverless-pro-example)   - [Requirements](#requirements)   - [Getting Started](#getting-started)     - [Account Setups](#account-setups)     - [Creating a Service](#creating-a-service)     - [Automated Deploys](#automated-deploys)     - [Testing from Serverless PRO Dashboard](#testing-from-serverless-pro-dashboard)",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonireilly/serverless-pro-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonireilly/serverless-pro-example/issues"
+  },
+  "homepage": "https://github.com/simonireilly/serverless-pro-example#readme",
+  "dependencies": {
+    "serverless": "^1.66.0"
+  }
+}
