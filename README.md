@@ -6,6 +6,7 @@
     - [Account Setups](#account-setups)
     - [Creating a Service](#creating-a-service)
     - [Automated Deploys](#automated-deploys)
+    - [Testing from Serverless PRO Dashboard](#testing-from-serverless-pro-dashboard)
 
 ## Requirements
 
@@ -53,4 +54,12 @@ Lets create a branch locally and push it to get a deploy.
 ```
 git checkout -b patch/update-01
 git commit --allow-empty -m "Trigger deploy"
+git push
 ```
+
+Once you open up a Pull request you will see the deploy is happening in an automated way.
+
+Each of these is a separate stage, and you can hop onto the application tracking.
+
+### Testing from Serverless PRO Dashboard
+
