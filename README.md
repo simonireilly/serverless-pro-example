@@ -22,7 +22,7 @@
 
 - **Fork this repository**
 - After that head to your AWS account a login [https://aws.amazon.com/](https://aws.amazon.com/).
-- Next head over to the [https://dashbaord.serverless.com](https://dashbaord.serverless.com)
+- Next head over to the [https://dashboard.serverless.com](https://dashboard.serverless.com)
   - Click Login with Github and complete the authorization.
 
 ### Creating a Service
